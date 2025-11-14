@@ -3,10 +3,10 @@
 - <h1>Tech Used :-</h1> 
 
   HTML<br>
-  CSS
-  JAVASCRIPT
-  FLASK
- BOOTSTRAP
+  CSS<br>
+  JAVASCRIPT<br>
+  FLASK<br>
+ BOOTSTRAP<br>
 
  
 
